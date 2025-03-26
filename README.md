@@ -8,23 +8,23 @@ In this project, we used Pandas to extract and analyse specific data from the st
 
 Throughout the project, we utilized a wide range of Python and Pandas functionalities to manipulate and analyse data efficiently. These included basic techniques such as indexing and slicing, which allowed us to access and extract specific portions of data. We also employed aggregation and grouping methods to summarise and analyse data based on specific criteria. Additionally, we leveraged more advanced operations, such as pivot tables, which enabled us to reorganise and summarise data in a more insightful and comprehensive manner, facilitating deeper analysis and understanding.
 
-![alt text](Pythons10.png)
+![alt text](Python_Image/Pythons10.png)
 
 We also explored important positional arguments to define the order of parameters in functions, which helped streamline our functions. Furthermore, we utilised algorithms and arithmetic operators for data manipulation and analysis, along with shortcut operators for efficient coding. Conditional statements allowed us to perform operations based on specific conditions, such as sorting in descending order, average marks by gender and filtering students with more than 60 marks.
 
-![alt text](Pythons12.png)
+![alt text](Python_Image/Pythons12.png)
 
 To assist with the visual analysis of the data, we employed several visualisation techniques, including histograms, bar plots, scatter plots, and box plots. These visualisations were instrumental in uncovering patterns, distributions, and relationships within the data, allowing us to gain deeper insights.
 
-![alt text](Pythons13.png)
+![alt text](Python_Image/Pythons13.png)
 
-![alt text](Pythons14.png)
+![alt text](Python_Image/Pythons14.png)
 
-![alt text](Pythons15.png)
+![alt text](Python_Image/Pythons15.png)
 
-![alt text](Pythons16.png)
+![alt text](Python_Image/Pythons16.png)
 
-![alt text](Pythons17.png)
+![alt text](Python_Image/Pythons17.png)
 
 
 
