@@ -4,7 +4,7 @@
 
 In this project, we used Pandas to extract and analyse specific data from the student.csv dataset. Our first step was to read the data from the CSV file into a Pandas DataFrame using Colab notebook. To quickly explore the dataset, we printed the first 5 rows, providing a snapshot of the data. Additionally, we used the code to get the information and summary statistics for the dataframe, which helped us better understand the data’s structure and attributes.
 
-![alt text](Accountancy_Image/Balance_Sheet.png)
+![alt text](Pythons10.png)
 
 
 Throughout the project, we utilized a wide range of Python and Pandas functionalities to manipulate and analyse data efficiently. These included basic techniques such as indexing and slicing, which allowed us to access and extract specific portions of data. We also employed aggregation and grouping methods to summarise and analyse data based on specific criteria. Additionally, we leveraged more advanced operations, such as pivot tables, which enabled us to reorganise and summarise data in a more insightful and comprehensive manner, facilitating deeper analysis and understanding.
